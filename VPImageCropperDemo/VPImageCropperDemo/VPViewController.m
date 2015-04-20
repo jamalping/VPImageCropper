@@ -80,7 +80,6 @@
                                  NSLog(@"Picker View Controller is presented");
                              }];
         }
-        
     } else if (buttonIndex == 1) {
         // 从相册中选取
         if ([self isPhotoLibraryAvailable]) {
